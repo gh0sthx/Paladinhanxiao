@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I’m [Hanxiao](https://hanxiao6.github.io/) 👋
 
-<!--
-**Paladinhanxiao/Paladinhanxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working as a PHP developer.
+- 🌱 I’m currently learning Golang, JAVA.
+- 👯 I’m looking to collaborate on Micro-service, CaaS and so on…
+- 💬 Ask me about Anything you want~
+- 📫 Reach me: 961737123@qq.com
+- 😄 Pronouns: Hanxiao
+- ⚡ Fun fact: Reading book and Hikng.
 
-Here are some ideas to get you started:
+<table width="700px">
+<tr>
+<td align="center" valign="middle" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Paladinhanxiao's github stats](https://github-readme-stats.vercel.app/api?username=Paladinhanxiao&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
+
+</td>
+<td align="center" valign="middle" width="50%">
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Paladinhanxiao&layout=compact)
+
+</td>
+</tr>
+</table>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Paladinhanxiao/count.svg" />
+</p>
